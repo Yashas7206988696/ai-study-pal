@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Study Pal
 
 Simple Flask backend + React frontend for study planning, quizzes, summarization and tips.
@@ -37,3 +38,7 @@ This will open the React dev server on http://localhost:3000.
 ## Notes
 - Matplotlib is configured to use the 'Agg' backend so the server can render charts without a display.
 - If you add or change dependencies, update `requirements.txt` accordingly.
+=======
+# ai-study-pal
+An AI and Machine Learning powered Flask + React platform for auto-generating quizzes, intelligent study resources, and academic tools built for engineering and computer science students.
+>>>>>>> e60b692163850de42bdbad1168022c06d8707106

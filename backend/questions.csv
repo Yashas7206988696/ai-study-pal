@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 subject,question,options,answer,difficulty
 Science,What is the chemical symbol for water?,"['H2O','CO2','O2','NaCl']",H2O,1
 Math,What is 9 + 10?,"['17','18','19','20']",19,1
@@ -100,3 +101,107 @@ Science,What do we use to measure temperature?,"['Thermometer','Barometer','Stop
 Math,Value of 7 in 1237?,"['units','tens','hundreds','thousands']",units,2
 History,Who is called 'Father of Computers'?,"['Newton','Charles Babbage','Edison','Archimedes']",Charles Babbage,2
 English,Which sentence is a question?,"['I am late.','Are you ready?','He plays cricket.','It rained heavily.']","Are you ready?",1
+=======
+subject,question,options,answer,difficulty
+Science,What is the chemical symbol for water?,"['H2O','CO2','O2','NaCl']",H2O,1
+Math,What is 9 + 10?,"['17','18','19','20']",19,1
+History,Who was the first President of the United States?,"['John Adams','Thomas Jefferson','George Washington','Abraham Lincoln']",George Washington,1
+English,Which is an adjective?,"['run','blue','cat','see']",blue,1
+Science,What planet is known as the Red Planet?,"['Venus','Earth','Mars','Neptune']",Mars,1
+Math,What is 15 * 3?,"['30','45','50','35']",45,1
+History,The Great Wall of China was built in which country?,"['India','China','Japan','Russia']",China,1
+English,Which word is a verb?,"['sing','quick','yellow','shoes']",sing,1
+Science,What gas do plants breathe in that humans and animals breathe out?,"['Nitrogen','Oxygen','Hydrogen','Carbon Dioxide']",Carbon Dioxide,1
+History,Who discovered America in 1492?,"['Christopher Columbus','Vasco da Gama','Ferdinand Magellan','Marco Polo']",Christopher Columbus,2
+English,Which word is a noun in 'The dog sleeps'?,"['sleeps','The','dog','in']",dog,1
+Science,What is the boiling point of water at sea level?,"['0°C','50°C','100°C','200°C']",100°C,1
+Math,What is the square root of 121?,"['11','12','13','14']",11,2
+History,The Taj Mahal was built by which emperor?,"['Akbar','Babur','Shah Jahan','Jahangir']",Shah Jahan,2
+English,Which of these is a preposition?,"['because','under','run','blue']",under,2
+Science,Which of these is not a mammal?,"['Whale','Bat','Shark','Elephant']",Shark,1
+Math,What is the value of pi to two decimal places?,"['3.12','3.14','3.16','3.18']",3.14,2
+History,In what year did World War II end?,"['1942','1945','1950','1939']",1945,1
+English,Pick the synonym for 'happy',"['sad','angry','joyful','tired']",joyful,2
+Science,What part of the plant conducts photosynthesis?,"['Root','Leaf','Stem','Flower']",Leaf,1
+Math,Solve: 5x = 25. What is x?,"['3','4','5','6']",5,1
+History,Who wrote the Declaration of Independence?,"['Thomas Jefferson','George Washington','James Madison','Benjamin Franklin']",Thomas Jefferson,2
+English,Which word is an adverb in 'She runs quickly'?,"['runs','she','quickly','the']",quickly,2
+Science,Which vitamin do we get from sunlight?,"['Vitamin A','Vitamin B','Vitamin C','Vitamin D']",Vitamin D,1
+Math,What is 100 divided by 4?,"['20','25','30','35']",25,1
+History,Who was known as the Iron Lady?,"['Margaret Thatcher','Angela Merkel','Indira Gandhi','Elizabeth II']",Margaret Thatcher,2
+English,Antonym of 'strong'?,"['big','heavy','weak','tall']",weak,1
+Science,Which of these is not a state of matter?,"['Solid','Liquid','Gas','Smoke']",Smoke,2
+Math,What is 7 squared?,"['14','28','49','70']",49,1
+History,The pyramids are in which country?,"['Peru','Egypt','Mexico','China']",Egypt,1
+English,Which is a pronoun?,"['he','apple','nice','run']",he,1
+Science,What do bees collect from flowers?,"['Nectar','Honey','Pollen','Seeds']",Nectar,2
+Math,What is the next prime after 11?,"['12','13','15','17']",13,2
+History,Who led India to independence through nonviolence?,"['Subhas Chandra Bose','Jawaharlal Nehru','Mahatma Gandhi','Patel']",Mahatma Gandhi,2
+English,Which word is spelled correctly?,"['recieve','receive','recive','recievee']",receive,1
+Science,Which organ pumps blood?,"['Brain','Liver','Heart','Stomach']",Heart,1
+Math,What is the value of 8*12?,"['80','86','92','96']",96,1
+History,In which continent is Brazil?,"['Asia','Europe','Africa','South America']",South America,1
+English,Synonym for 'fast'?,"['slow','rapid','small','strong']",rapid,2
+Science,What does DNA stand for?,"['Deoxyribose Nucleic Acid','Deoxyribonucleic Acid','Ribonucleic Acid','Dinucleic Acid']",Deoxyribonucleic Acid,3
+Math,Find x: 2x + 6 = 10,"['2','3','4','5']",2,1
+History,The Magna Carta was signed in which country?,"['France','Germany','Italy','England']",England,2
+English,What is the plural of 'child'?,"['childs','childen','children','childres']",children,1
+Science,Which is the largest planet?,"['Earth','Jupiter','Mars','Venus']",Jupiter,1
+Math,What is 2 to the power of 5?,"['10','16','25','32']",32,2
+History,Who was the first man on the moon?,"['Buzz Aldrin','Neil Armstrong','Yuri Gagarin','John Glenn']",Neil Armstrong,1
+English,Which is an interjection?,"['wow','run','and','blue']",wow,1
+Science,Which blood type is universal donor?,"['A','B','AB','O']",O,3
+Math,What's the sum of the angles in a triangle?,"['90°','180°','270°','360°']",180°,1
+History,Where was Napoleon born?,"['France','Corsica','Italy','Spain']",Corsica,3
+English,Past tense of 'go'?,"['go','gone','went','goes']",went,1
+Science,Human body's biggest organ?,"['Heart','Liver','Skin','Lung']",Skin,2
+Math,How many sides does a hexagon have?,"['5','6','7','8']",6,1
+History,Ancient city of Rome is in?,"['Italy','Greece','France','Egypt']",Italy,1
+English,Opposite of 'hardworking'?,"['lazy','busy','quick','slow']",lazy,1
+Science,What is the pH of neutral water?,"['5','6','7','8']",7,3
+Math,What comes after 89 in the Fibonacci sequence?,"['144','121','233','55']",144,3
+History,Who wrote 'I Have a Dream' speech?,"['Martin Luther King Jr.','Barack Obama','Abraham Lincoln','John F. Kennedy']",Martin Luther King Jr.,2
+English,Pick the contraction for 'do not',"['didn't','don't','doesn't','didnt']",don't,1
+Science,What gas do fish use to breathe?,"['Oxygen','Carbon Dioxide','Hydrogen','Methane']",Oxygen,1
+History,Where is the Colosseum located?,"['Paris','Rome','Athens','Berlin']",Rome,1
+English,Choose the correct article: '___ apple',"['a','an','the','no']",an,1
+Science,Vitamin C is abundant in?,"['Banana','Carrot','Orange','Potato']",Orange,1
+Math,10% of 200 is?,"['10','15','20','25']",20,1
+History,World War I began in which year?,"['1912','1914','1916','1920']",1914,2
+English,What is the plural of 'mouse'?,"['mouses','mices','mice','mouse']",mice,1
+Science,Which is a reptile?,"['Frog','Turtle','Salmon','Crow']",Turtle,2
+Math,What's half of 0.8?,"['0.2','0.3','0.4','0.5']",0.4,1
+History,Who painted the Mona Lisa?,"['Michelangelo','Leonardo da Vinci','Raphael','Dali']",Leonardo da Vinci,2
+English,Find the synonym for 'large'?,"['tiny','small','big','weak']",big,2
+Science,What metal is liquid at room temperature?,"['Copper','Aluminum','Mercury','Iron']",Mercury,3
+Math,What is 99*0?,"['0','9','1','99']",0,1
+History,The Great Fire of London was in which year?,"['1666','1766','1866','1966']",1666,3
+English,Choose the correct spelling?,"['definately','definitely','definetly','defintely']",definitely,1
+Science,Which vitamin helps blood clot?,"['Vitamin B','Vitamin C','Vitamin D','Vitamin K']",Vitamin K,3
+Math,Round 4.678 to one decimal place?,"['4.6','4.7','4.8','5.0']",4.7,2
+History,Who was Cleopatra?,"['Pharaoh of Egypt','Roman Empress','Greek Queen','Indian Queen']",Pharaoh of Egypt,2
+English,Fill the blank: 'She ___ running',"['am','is','are','were']",is,1
+Science,What is the hardest natural substance?,"['Diamond','Gold','Silver','Iron']",Diamond,2
+Math,Convert 0.25 to a fraction?,"['1/5','1/4','1/3','1/2']",1/4,2
+History,The Roman numeral 'X' stands for?,"['5','10','50','100']",10,1
+English,How many vowels in 'education'?,"['2','3','4','5']",5,1
+Science,Which is NOT a greenhouse gas?,"['CO2','Methane','Nitrogen','Ozone']",Nitrogen,3
+Math,Area of a circle formula?,"['πr^2','2πr','r^2','πd']",πr^2,2
+History,Who was known as the Maid of Orleans?,"['Cleopatra','Joan of Arc','Elizabeth I','Marie Curie']",Joan of Arc,3
+English,Find the antonym for 'short'?,"['small','tall','tiny','weak']",tall,1
+Science,Which nutrient builds muscles?,"['Carbs','Fats','Proteins','Vitamins']",Proteins,1
+Math,Solve: 14 ÷ 2?,"['5','6','7','8']",7,1
+History,Mount Everest is found in?,"['India','China','Nepal','Bhutan']",Nepal,2
+English,Pick the verb: 'He eats quickly'?,"['He','eats','quickly','the']",eats,1
+Science,What part of the body has the smallest bones?,"['Ear','Finger','Toe','Nose']",Ear,3
+History,Who invented the light bulb?,"['Volta','Edison','Einstein','Tesla']",Edison,1
+English,What is the subject in 'Birds fly'?,"['Birds','fly','the','in']",Birds,1
+Science,What is a group of lions called?,"['herd','pack','pride','team']",pride,1
+Math,What is 1/4 + 1/2?,"['1/2','3/4','2/4','1']",3/4,2
+History,The capital of France is?,"['Berlin','Rome','Paris','London']",Paris,1
+English,Opposite of 'always'?,"['never','sometimes','often','rarely']",never,1
+Science,What do we use to measure temperature?,"['Thermometer','Barometer','Stopwatch','Scale']",Thermometer,1
+Math,Value of 7 in 1237?,"['units','tens','hundreds','thousands']",units,2
+History,Who is called 'Father of Computers'?,"['Newton','Charles Babbage','Edison','Archimedes']",Charles Babbage,2
+English,Which sentence is a question?,"['I am late.','Are you ready?','He plays cricket.','It rained heavily.']","Are you ready?",1
+>>>>>>> e60b692163850de42bdbad1168022c06d8707106
