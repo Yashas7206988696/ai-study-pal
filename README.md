@@ -224,15 +224,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special recognition to Flask and React communities
 - Inspired by the need for intelligent learning tools in modern education
 
-## 🗺️ Roadmap
-
-- [ ] Mobile application (React Native)
-- [ ] Advanced AI models for content analysis
-- [ ] Real-time collaboration features
-- [ ] Integration with popular LMS platforms
-- [ ] Multi-language support
-- [ ] Voice-to-text quiz generation
-
 ---
 
 <div align="center">
